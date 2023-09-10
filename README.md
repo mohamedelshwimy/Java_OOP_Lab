@@ -1,5 +1,5 @@
 # Java_OOP_Lab
-2)	Create main function and test your classes using the following
+Create main function and test your classes using the following
 Display the following menu to the user:
 -	Press 1 to enter account details
 -	Press 2 to deposit
